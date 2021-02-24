@@ -5,3 +5,12 @@ body {
 #inner1, #inner2 {
     list-style-type: circle;
 }
+
+#commentList {
+    list-style-type: none;
+}
+
+div {
+    background-color: #FFFFA8;
+    font-style: italic;
+}
