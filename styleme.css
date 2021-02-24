@@ -14,6 +14,18 @@ p {
     font-size: 20px;
 }
 
-a{
+a:link {
     color: orangered;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: lightsalmon;
+}
+
+a:active {
+    color: cyan;
 }
