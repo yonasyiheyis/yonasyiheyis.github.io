@@ -3,6 +3,8 @@ body {
     color: #404040;
     font-family: Georgia, Garamond, "sans-serif";
     font-size: 11pt;
+    background-image: "silverware.jpg";
+    background-attachment: fixed;
 }
 
 h1, h2, h3, h4, h5 {
