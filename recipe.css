@@ -4,4 +4,5 @@ body {
   
 #firstList {
     list-style-type: none;
+    text-align: left;
 }
