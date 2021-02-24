@@ -21,8 +21,8 @@ h1 {
     font-size: 22pt;
 }
 
-#inner1, #inner2 {
-    list-style-type: circle;
+ul.list {
+    list-style-image: url('https://yonasyiheyis.github.io/pie_icon.jpg');
 }
 
 #commentList {
