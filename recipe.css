@@ -18,3 +18,7 @@ div {
 a.link {
     color: #A4A400;
 }
+
+p.last {
+    text-align: right;
+}
