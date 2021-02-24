@@ -21,7 +21,7 @@ h1 {
     font-size: 22pt;
 }
 
-ul.list {
+#list1, #list2, #list3 {
     list-style-image: url('https://yonasyiheyis.github.io/pie_icon.gif');
 }
 
