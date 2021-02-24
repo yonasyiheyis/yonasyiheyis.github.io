@@ -19,7 +19,7 @@ a:link {
 }
 
 a:visited {
-    color: green;
+    color: rgb(119, 128, 0);
 }
 
 a:hover {
