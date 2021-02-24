@@ -1,10 +1,10 @@
 body {
+    background-image: url("https://yonasyiheyis.github.io/silverware.jpg");
+    background-attachment: fixed;
     background-color: white;
     color: #404040;
     font-family: Georgia, Garamond, "sans-serif";
     font-size: 11pt;
-    background-image: url("silverware.jpg");
-    background-attachment: fixed;
 }
 
 h1, h2, h3, h4, h5 {
