@@ -6,3 +6,13 @@ body {
     margin:0; 
     padding:0;
 }
+
+div.banner {
+    background-image: url("images/bannerbg.png");
+}
+
+#bannerimg {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
