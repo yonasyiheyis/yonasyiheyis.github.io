@@ -17,3 +17,9 @@ div.banner {
     margin-right: auto;
     width: 60%;
 }
+
+h1 {
+    font-family: Tahoma, Verdana, "sans-serif";
+    font-size: 24pt;
+    text-shadow: 3px 3px #999999;
+}
