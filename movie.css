@@ -3,4 +3,6 @@ body {
     font-size: 8pt;
     background-image: url("images/background.png");
     background-attachment: fixed;
+    margin:0; 
+    padding:0;
 }
