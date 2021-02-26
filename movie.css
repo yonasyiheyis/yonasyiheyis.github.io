@@ -99,3 +99,7 @@ dl.defList {
     margin-left: 10pt;
     margin-right: 10pt;
 }
+
+dt.listTitles {
+    margin-top: 10pt;
+}
