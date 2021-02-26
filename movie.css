@@ -120,6 +120,7 @@ p.lastParagraph {
     background-color: #A2B964;
     padding: 5px;
     clear: right;
+    width: 800px;
 }
 
 div.validators {
