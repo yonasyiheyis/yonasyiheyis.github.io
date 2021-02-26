@@ -45,3 +45,13 @@ div.reviewHeader > span {
     color: red;
     font-weight: bold;
 }
+
+div.overview {
+    position: absolute;
+    right: 0;
+    width: 250px;
+    background-color: #A2B964;
+    margin-left: 10pt;
+    font-family: Arial, "sans-serif";
+    font-size: 8pt;
+}
