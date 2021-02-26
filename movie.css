@@ -105,6 +105,12 @@ dt.listTitles {
     font-weight: bold;
 }
 
+ul.linkList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
 p.lastParagraph {
     background-color: #A2B964;
     clear: right;
