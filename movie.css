@@ -105,7 +105,7 @@ dt.listTitles {
     font-weight: bold;
 }
 
-div.lastParagraph {
+p.lastParagraph {
     background-color: #A2B964;
     clear: right;
 }
