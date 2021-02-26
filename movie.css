@@ -58,12 +58,22 @@ div.reviewParagraph {
     background-color: #E8DC9B;
     border: 2px solid gray;
     border-radius: 10px;
-    margin: 8px;
+    padding: 8px;
 }
 
 div.floated {
     float: left;
     margin-right: 5px;
+}
+
+div.row {
+    box-sizing: border-box;
+    display: flex;
+}
+
+div.column {
+    box-sizing: border-box;
+    flex: 50%;
 }
 
 div.overview {
