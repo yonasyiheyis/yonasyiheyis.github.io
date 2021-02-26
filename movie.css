@@ -61,6 +61,11 @@ div.reviewParagraph {
     margin: 8px;
 }
 
+div.floated {
+    float: left;
+    margin-right: 5px;
+}
+
 div.overview {
     position: absolute;
     right: 0;
