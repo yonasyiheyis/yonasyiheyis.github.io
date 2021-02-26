@@ -114,8 +114,6 @@ ul.linkList {
 }
 
 div.lastParagraph {
-    position: absolute;
-    bottom: 0;
     text-align: center;
     background-color: #A2B964;
     padding: 5px;
