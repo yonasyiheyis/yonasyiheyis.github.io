@@ -108,4 +108,5 @@ dt.listTitles {
 p.lastParagraph {
     background-color: #A2B964;
     clear: right;
+    padding: 2pt;
 }
