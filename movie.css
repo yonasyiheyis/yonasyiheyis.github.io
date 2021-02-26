@@ -75,6 +75,8 @@ div.column {
     box-sizing: border-box;
     flex: 50%;
     width: 47%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
 div.overview {
