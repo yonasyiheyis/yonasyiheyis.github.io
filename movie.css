@@ -44,6 +44,7 @@ div.reviews {
 
 div.reviewHeader {
     background-image: url("images/rbg.png");
+    height: 50px;
     width: 550px;
 }
 
