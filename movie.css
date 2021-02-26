@@ -52,6 +52,15 @@ div.reviewHeader > span {
     font-weight: bold;
 }
 
+div.reviewParagraph {
+    font-size: 8pt;
+    font-weight: bold;
+    background-color: #E8DC9B;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin: 8px;
+}
+
 div.overview {
     position: absolute;
     right: 0;
