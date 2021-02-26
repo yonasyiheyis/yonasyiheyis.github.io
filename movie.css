@@ -37,6 +37,8 @@ div.outer {
 }
 
 div.reviews {
+    position: absolute;
+    left: 0;
     width: 550px;
 }
 
