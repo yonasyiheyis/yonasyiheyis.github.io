@@ -62,6 +62,10 @@ div.reviewParagraph {
     padding: 8px;
 }
 
+div.users > span {
+    font-style: italic;
+}
+
 div.floated {
     float: left;
     margin-right: 5px;
