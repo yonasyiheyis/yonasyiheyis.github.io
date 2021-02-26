@@ -110,3 +110,13 @@ p.lastParagraph {
     clear: right;
     padding: 5px;
 }
+
+div.validators {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+image.validate {
+    opacity: 50%;
+}
