@@ -119,6 +119,7 @@ div.lastParagraph {
     text-align: center;
     background-color: #A2B964;
     padding: 5px;
+    height: 50%;
     /*clear: right;*/
     width: 800px;
 }
