@@ -35,6 +35,10 @@ div.outer {
     height: 83px;
 }
 
+div.reviews {
+    width: 550px;
+}
+
 div.reviewHeader {
     background-image: url("images/rbg.png");
     width: 550px;
