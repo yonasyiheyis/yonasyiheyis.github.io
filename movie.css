@@ -104,3 +104,7 @@ dt.listTitles {
     margin-top: 10pt;
     font-weight: bold;
 }
+
+div.lastParagraph {
+    clear: right;
+}
