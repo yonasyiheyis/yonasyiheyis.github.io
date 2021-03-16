@@ -14,7 +14,7 @@ $(document).ready(function() {
 
     $("body").mouseover(function() {
 		if (event.target.id != ("maze") && event.target.id != ("start") && event.target.id != ("end")) {
-			lose();
+			lostGame();
 		}
 	});
 
