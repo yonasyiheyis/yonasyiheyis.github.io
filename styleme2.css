@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(224, 229, 231);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 40px 250px 75px 150px;
+  }
+  
+#name {
+
+    border-bottom: 2px solid rgb(241, 71, 71);
+    padding-bottom: 5px;
+    text-align: right;
+}
+
+a {
+  color: red;
+}
+p.home {
+  margin: 15px 18px 15px 15px;
+  text-align: right;
+}
+a#home {
+  color: black;
+}
+.home {
+  padding-left: 620px;
+}
+a:hover {
+  color: green;
+}
+
+th,td {
+    margin: 5px;
+    padding: 5px;
+}
+
+ul {
+  font-style: italic;
+}
+ol {
+  list-style-type: upper-roman;
+}
+dt {
+  color: darkblue;
+}
+
+dd {
+  color: cornflowerblue;
+}
+  
